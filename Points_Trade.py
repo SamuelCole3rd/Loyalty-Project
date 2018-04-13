@@ -1,0 +1,18 @@
+#Points
+groups = (10)
+points = (-1000,-2000,-3000,-4000,-5000,-6000,-7000,-8000,-9000,-10000)
+
+Head_Sets = (-1000)
+Mouse = (-1000)
+Keyboard = (-2000)
+Graphic_Card = (-3000)
+Virtual_Reality_Headset = (-4000) 
+Tv = (-5000)
+Alienware = (-7000)
+PS4 = (-7000)
+Xbox_One = (-7000)
+Action_Replay_Device = (-8000)
+Game_Genie = (-8000)
+Game_Shark = (-8000)
+Waifu_Pillow = (-9000)
+Ticket_to_LA = (-10000)
